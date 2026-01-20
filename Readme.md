@@ -1,5 +1,19 @@
 # Care Guardian System: Modular Care Infrastructure
 
+**Project:** [View our Project](https://docs.google.com/spreadsheets/d/1kuZmSXCn86EIeHLcc9JAG513F-UOnR2w5pN0teiJT-0/edit?usp=sharing)
+
+**Demo Video:** [Watch Project Demo](https://youtu.be/VKn6IKOhXsY?si=7_H-fpR9Oa2PCXMW)
+
+## Testing Guide
+
+To test the system:
+1. Navigate to the project.
+2. Go to any volunteer's sheet.
+3. Click on the Google Form link.
+4. Submit a relevant action, ensuring the help recipient's name matches exactly.
+5. Observe the HP rise immediately on the volunteer's sheet.
+6. Wait for the dashboard to update after a minute.
+
 ## The Problem Statement
 **Static Data leads to Passive Action.**
 
