@@ -15,11 +15,8 @@ To test the system:
 6. Wait for the dashboard to update after a minute.
 
 ## The Problem Statement
-**Static Data leads to Passive Action.**
 
-In community elderly care, current tools are either too rigid (expensive SaaS platforms) or too passive (static spreadsheets). We identified a phenomenon we call the **"Checklist Effect"**: volunteers tick a box and leave, prioritizing the *task* over the *human*.
-
-Furthermore, standard spreadsheets lack urgency. A row of data does not convey the immediate decline of an elderly person's well-being. Without real-time pressure, "checking in" becomes a task that can be postponed, leading to neglect.
+Develop a solution that improves relationships between caregiver and the care recipient so that caregivers can provide the care that the care recipients want/need in a mutually respectful, meaningful, and joyful way.
 
 ## The Solution
 **Care Guardian** is not just a tool; it is a **Modular Blueprint** for community care infrastructure. It transforms the ubiquitous Google Ecosystem (Sheets, Forms, Apps Script) into a high-stakes **Command Console**.
