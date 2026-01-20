@@ -14,7 +14,7 @@ To test the system:
 5. Observe the HP rise immediately on the volunteer's sheet.
 6. Wait for the dashboard to update after a minute.
 
-## The Problem Statement
+## The Problem Statement (2)
 
 Develop a solution that improves relationships between caregiver and the care recipient so that caregivers can provide the care that the care recipients want/need in a mutually respectful, meaningful, and joyful way.
 
